@@ -301,12 +301,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Haunted School 1",
-    "link": "https://games.crazygames.com/en_US/haunted-school---horror-game/index.html",
-    "image": "/assets/media/icons/na.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Hole.IO",
     "link": "https://hole-io.com/",
     "image": "/assets/media/icons/hole.webp",
@@ -316,12 +310,6 @@
     "name": "Learn To Fly Idle",
     "link": "https://www.gameslol.net/data/waflash/index.php?g=635",
     "image": "/assets/media/icons/ltf_idle.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Lordz.io",
-    "link": "https://lordz.io/",
-    "image": "/assets/media/icons/lordz.webp",
     "categories": ["all"]
   },
   {
@@ -355,24 +343,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Pizza Tower",
-    "link": "https://gamaverse.com/c/e/g/pizza-tower-1678640389/index.html",
-    "image": "/assets/media/icons/pizza-tower.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Pokemon Heart Gold",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/pokemon-heartgold-version1.zip",
-    "image": "/assets/media/icons/heartgold.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Pokemon Showdown",
-    "link": "https://play.pokemonshowdown.com",
-    "image": "/assets/media/icons/showdown.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Google Baseball",
     "link": "https://www.google.com/logos/2019/july4th19/r6/july4th19.html",
     "image": "/assets/media/icons/googlebaseball.webp",
@@ -382,144 +352,6 @@
     "name": "Deal or No Deal",
     "link": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/dondeal2.swf&w=640&h=480&warnsupport=true",
     "image": "/assets/media/icons/deal-or-no-deal.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Deadshot",
-    "link": "https://deadshot.io",
-    "image": "/assets/media/icons/deadshot.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rainbow Tower",
-    "link": "https://www.mathplayground.com/mobile_rainbow_tower/index.html",
-    "image": "/assets/media/icons/rainbowtower.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Doodle Jump",
-    "link": "https://doodlejump.pro/",
-    "image": "/assets/media/icons/doodlejump.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Madalin Stunt Cars Multiplayer",
-    "link": "https://games.crazygames.com/en_US/madalin-cars-multiplayer/index.html",
-    "image": "/assets/media/icons/madalinmultiplayer.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Madalin Stunt Cars 2",
-    "link": "https://games.crazygames.com/en_US/madalin-stunt-cars-2/index.html",
-    "image": "/assets/media/icons/madalinstuntcars2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Madalin Stunt Cars 3",
-    "link": "https://games.crazygames.com/en_US/madalin-stunt-cars-3/index.html",
-    "image": "/assets/media/icons/madalinstuntcars3.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "PM: Light Platinum",
-    "link": "https://browncha023.github.io/GBA/launcher.html#pokemonlp",
-    "image": "/assets/media/icons/lp.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Precision Client",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/precision-client/index.html",
-    "image": "/assets/media/icons/precision.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rainbow Six Siege",
-    "link": "https://play.geforcenow.com/games?game-id=1dd07d47-6601-42f7-80e9-e4d8db08ea1b&lang=en_US&asset-id=01_44417-48c3d8e642e2",
-    "image": "/assets/media/icons/r6.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 1",
-    "link": "https://www.algebrashelper.com/redball",
-    "image": "/assets/media/icons/redball1.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 2",
-    "link": "https://www.algebrashelper.com/redball-2",
-    "image": "/assets/media/icons/redball2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4",
-    "link": "https://www.algebrashelper.com/redball-4",
-    "image": "/assets/media/icons/redball4.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4 Vol. 2",
-    "link": "https://www.algebrashelper.com/read-ball-4v2",
-    "image": "/assets/media/icons/redball4vol2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4 Vol. 3",
-    "link": "https://www.algebrashelper.com/red-ball-4v3",
-    "image": "/assets/media/icons/redball4vol3.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Retro Arch",
-    "link": "https://binbashbanana.github.io/webretro/",
-    "image": "/assets/media/icons/webretro.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Riddle School 2",
-    "link": "https://f.silvergames.com/ruffle/player.php?id=8564",
-    "image": "/assets/media/icons/rs2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Riddle School 3",
-    "link": "https://riddle-school-3.game-files.crazygames.com/ruffle/riddleschool3.html",
-    "image": "/assets/media/icons/rs3.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rocket Pult",
-    "link": "https://v6p9d9t4.ssl.hwcdn.net/html/565140/index.html",
-    "image": "/assets/media/icons/rocketpult.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rooftop Snipers",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/c3a70ae98547407a92ebedca8b79fdfa/index.html",
-    "image": "/assets/media/icons/rooftop.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Sand Spiel",
-    "link": "https://sandspiel.club/",
-    "image": "/assets/media/icons/sand.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Sandboxels",
-    "link": "https://v6p9d9t4.ssl.hwcdn.net/html/5808591/index.html",
-    "image": "/assets/media/icons/sandboxels.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Shapez.IO",
-    "link": "https://shapez.io",
-    "image": "/assets/media/icons/shapezio.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Shell Shockers",
-    "link": "https://shellshock.io/",
-    "image": "/assets/media/icons/shell-shockers.webp",
     "categories": ["all"]
   },
   {
@@ -535,21 +367,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Smash Karts",
-    "link": "https://smashkarts.io/",
-    "image": "/assets/media/icons/smashkarts.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Snowball.io",
     "link": "https://games.crazygames.com/en_US/snowball-io/index.html",
     "image": "/assets/media/icons/snowball.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Space Plan",
-    "link": "https://jhollands.co.uk/spaceplan/",
-    "image": "/assets/media/icons/spaceplan.webp",
     "categories": ["all"]
   },
   {
@@ -559,101 +379,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Stumble Guys Clone",
-    "link": "https://stumble-guys.io/stumble-guys.embed",
-    "image": "/assets/media/icons/stumble-guys.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Sugar Sugar HTML5",
-    "link": "https://66564262-37c6-4095-a731-535342e4bbe4.poki-gdn.com/5bd6e8c6-381d-4de5-9823-96662d29afaf/index.html",
-    "image": "/assets/media/icons/sugarsugar.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Super Mario 63",
-    "link": "https://www.numuki.com/gameframe/super-mario-63",
-    "image": "/assets/media/icons/sm63.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Super Mario 64",
     "link": "https://f.kbhgames.com/r/n64/game.php?file=32112_super-mario-64-usa.zip",
     "image": "/assets/media/icons/sm64.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Super Smash Flash",
-    "link": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/smashflash.swf&w=1521&h=753",
-    "image": "/assets/media/icons/ssf1.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Supply Chain Idle",
-    "link": "https://chat.kongregate.com/gamez/0027/1653/live/index.html?kongregate_game_version=1554392772",
-    "image": "/assets/media/icons/supplychainlogo.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Taming.io",
-    "link": "https://taming.io/",
-    "image": "/assets/media/icons/tamingio.webp",
-    "categories": ["all"],
-    "error": "true",
-    "say": "Taming.io is currently broken on the proxy and will crash Interstellar when attempted to load."
-  },
-  {
-    "name": "Temple of Boom",
-    "link": "https://temple-of-boom.github.io/file/",
-    "image": "/assets/media/icons/templeofboom.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Tanuki Sunset",
-    "link": "https://watchdocumentaries.com/wp-content/uploads/games/tanuki-sunset",
-    "image": "/assets/media/icons/tanuki.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "The Simpsons",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/11/the-simpsons-game.zip",
-    "image": "/assets/media/icons/the-simpsons-game.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Temple Run 2",
-    "link": "https://watchdocumentaries.com/wp-content/uploads/games/temple-run-2/",
-    "image": "/assets/media/icons/temple-run-2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Twitch Tetris",
-    "link": "https://www.rossipotti.de/ausgabe28/tetris/controls.html",
-    "image": "/assets/media/icons/na.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Voxiom.io",
-    "link": "https://voxiom.io/",
-    "image": "/assets/media/icons/voxiom.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Zombs.io",
-    "link": "https://zombs.io/",
-    "image": "/assets/media/icons/zombs-io.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Zombs Royale",
-    "link": "https://zombsroyale.io",
-    "image": "/assets/media/icons/zombs-royale.webp",
-    "categories": ["all,", "2P"]
-  },
-  {
-    "name": "GBA Games",
-    "link": "https://real-sgs.vercel.app/Tools/GBA-Emulator",
-    "image": "/assets/media/icons/gba.webp",
     "categories": ["all"]
   },
   {
@@ -675,18 +403,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
-    "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Genshin Impact",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.miHoYo.GenshinImpact&partner=interstellar",
-    "image": "/assets/media/icons/genshinimpact.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Fortnite (Now.GG)",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=interstellar",
     "image": "/assets/media/icons/fortnite.webp",
@@ -705,18 +421,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Melon Playground",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.studio27.MelonPlayground&partner=interstellar",
-    "image": "/assets/media/icons/melonplayground.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Solar Smash",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.paradyme.solarsmash&partner=interstellar",
-    "image": "/assets/media/icons/solarsmash.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Bloons TD Battles 2",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles2&partner=interstellar",
     "image": "/assets/media/icons/bloonstd2.webp",
@@ -729,21 +433,9 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Cookie Run Kingdom",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.devsisters.ck&partner=interstellar",
-    "image": "/assets/media/icons/cookierunkingdom.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Character AI",
     "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
     "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Aptoide",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "image": "/assets/media/icons/aptoide.webp",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -756,30 +448,6 @@
     "name": "WorldBox",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.mkarpenko.worldbox&partner=interstellar",
     "image": "/assets/media/icons/worldbox.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Toca Life World",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocalifeworld&partner=interstellar",
-    "image": "/assets/media/icons/tocalifeworld.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Toca Hair Salon 4",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocahairsalon4&partner=interstellar",
-    "image": "/assets/media/icons/tocabocahairsalon4.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Toca Kitchen 2",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocakitchen2&partner=interstellar",
-    "image": "/assets/media/icons/tocakitchen2.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Free Fire",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.dts.freefireth&partner=interstellar",
-    "image": "/assets/media/icons/freefire.webp",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -801,105 +469,20 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Now.GG (NowGG.me) [Working]",
-    "link": "https://nowgg.me",
-    "image": "/assets/media/icons/shuttle.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Parappa the Rapper",
-    "link": "https://retrogamesonline.io/parappa-the-rapper.embed",
-    "image": "/assets/media/icons/ptr.webp",
-    "categories": ["all", "emu"]
-  },
-  {
     "name": "Half-Life",
     "link": "https://x8bitrain.github.io/webXash/",
     "image": "/assets/media/icons/half-life.webp",
     "categories": ["all"]
   },
   {
-    "name": "Kiomet",
-    "link": "https://kiomet.com",
-    "image": "/assets/media/icons/kiomet.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Tribals.io",
-    "link": "https://tribals.io/",
-    "image": "/assets/media/icons/tribalsio.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Counter Strike 1.6",
-    "link": "https://play-cs.com/en/servers",
-    "image": "/assets/media/icons/cs16.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Narrow One",
-    "link": "https://narrow.one",
-    "image": "/assets/media/icons/narrowone.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Kirka",
-    "link": "https://kirka.io",
-    "image": "/assets/media/icons/kirka.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Cryzen",
-    "link": "https://cryzen.io",
-    "image": "/assets/media/icons/cryzen.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Hordes",
-    "link": "https://hordes.io",
-    "image": "/assets/media/icons/hordes.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Venge",
-    "link": "https://venge.io",
-    "image": "/assets/media/icons/venge.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Minecraft 1.5.2 (Eaglercraft)",
+    "name": "Minecraft",
     "link": "/e/ec-15/index.html",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P", "emu", "local"]
   },
   {
-    "name": "Minecraft 1.8 (Eaglercraft)",
-    "link": "/e/ec-18/index.html",
-    "image": "/assets/media/icons/mc.webp",
-    "categories": ["all", "2P", "emu", "local"]
-  },
-  {
-    "name": "Getaway S.",
-    "link": "https://www.twoplayergames.org/embed/getaway-shootout",
-    "image": "/assets/media/icons/getaway.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Eaglercraft 1.5.2 [Singleplayer]",
-    "link": "https://interstellar-assets.pages.dev/minecraft-15/",
-    "image": "/assets/media/icons/mc.webp",
-    "categories": ["all", "2P", "emu"],
-    "blank": "true"
-  },
-  {
     "name": "2048",
     "link": "/e/2048/index.html",
-    "image": "/assets/media/icons/2048.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "2048 Multitasking",
-    "link": "/e/2048-multitask/index.html",
     "image": "/assets/media/icons/2048.webp",
     "categories": ["all", "local"]
   },
@@ -934,24 +517,6 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Windows 96",
-    "link": "https://windows96.net",
-    "image": "/assets/media/icons/windows96.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "The Impossible Quiz: Book 2",
-    "link": "https://f.silvergames.com/ruffle/player.php?id=3742",
-    "image": "/assets/media/icons/book2.webp",
-    "categories": ["all", "emu"]
-  },
-  {
-    "name": "Wrassling",
-    "link": "https://games.poki.com/458768/wrassling",
-    "image": "/assets/media/icons/wrassling.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Happy Wheels",
     "link": "https://games-online.io/game/HappyWheels/",
     "image": "/assets/media/icons/hw.webp",
@@ -975,16 +540,4 @@
     "image": "/assets/media/icons/tpg.webp",
     "categories": ["all"]
   },
-  {
-    "name": "Five Nights at Winston's",
-    "link": "https://g.deev.is/fnaw/",
-    "image": "/assets/media/icons/fnaw.webp",
-    "categories": ["all", "game"]
-  },
-  {
-    "name": "Goomy Clicker 2",
-    "link": "https://idle-js-games.github.io/goomyClicker2/",
-    "image": "/assets/media/icons/gc2.webp",
-    "categories": ["all"]
-  }
 ]
