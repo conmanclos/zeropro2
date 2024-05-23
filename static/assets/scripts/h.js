@@ -169,9 +169,10 @@ let SplashT = [
   "Made by zero studios",
   "Thanks for using the site",
   "play more often would ya",
-  "zero is the best,
+  "zero is the best",
   "zero bad games",
   "try idle tycoon start-up it is so fun",
+  "check settings customise it to your liking",
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
