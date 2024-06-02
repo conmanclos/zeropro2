@@ -4,7 +4,6 @@ try {
   inFrame = window !== top
 } catch (e) {
   inFrame = true
-}
   } else {
     const doc = popup.document
     const iframe = doc.createElement("iframe")
