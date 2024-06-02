@@ -8,7 +8,9 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes("Firefox")) {
   const popup = open("about:blank", "_blank")
-  if (!popup || popup.closed) else {
+  if (!popup || popup.closed) {
+    alert("Please allow popups and redirects.")
+  } else {
     const doc = popup.document
     const iframe = doc.createElement("iframe")
     const style = iframe.style
