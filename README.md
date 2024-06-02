@@ -4,7 +4,9 @@
     <p>zero is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
-![logo](https://raw.githubusercontent.com/conmanclos/zeropro2/main/ze%20(12).png)
+<div align="center">
+    ![logo](https://raw.githubusercontent.com/conmanclos/zeropro2/main/ze%20(12).png)
+</div>
 
 ## Features
 
