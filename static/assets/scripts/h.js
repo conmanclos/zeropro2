@@ -6,8 +6,10 @@ try {
   inFrame = true
 }
 
-{
-    alert("Please allow popups and redirects.")
+if (!inFrame && !navigator.userAgent.includes("Firefox")) {
+  const popup = open("about:blank", "_blank")
+  if (!popup || popup.closed) {
+    alert("Welcome to Zero please allow popups and redirects to continue.")
   } else {
     const doc = popup.document
     const iframe = doc.createElement("iframe")
